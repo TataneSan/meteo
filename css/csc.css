@@ -1,0 +1,46 @@
+body{
+    background-color: #282b2d;
+}
+.card{
+    margin: auto;
+    margin-top: 200px;
+    background-color:  #232527;
+    width: 600px !important;
+
+}
+.card-body{
+    color: white;
+}
+.list-group-item{
+    color: white;
+    background-color:  #232527;
+}
+
+.card-title{
+    text-align: center;
+    font-size: 35px;
+}
+
+.temp{
+    text-align: center;
+}
+.section2{
+    visibility: hidden;
+    margin-top: -15em;
+    margin-left: 4em;
+}
+
+.badge {
+    font-size: 150%;}
+
+.contactform {
+    margin: auto;
+    color: white;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 100px;
+}
+.form-control{
+    text-align: center;
+}
