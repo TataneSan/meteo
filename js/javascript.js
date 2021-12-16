@@ -1,6 +1,6 @@
 let content = [];
 let url = "https://api.openweathermap.org/data/2.5/weather?";
-let def = "Montpellier";
+let def = "Grasse";
 init();
 document.getElementById("inputField").addEventListener("submit", function (event) {
     def = document.getElementById("searchCity").value;
